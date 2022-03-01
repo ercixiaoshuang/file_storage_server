@@ -16,9 +16,7 @@ The File Storage Server makes a Java Spring boot application to easily upload/de
 
 |Repository | Information |
 |--------|----------|
-|[Main Repository - mkt_ifd_performance](https://git.rakuten-it.com/projects/ADMKTIFD/repos/mkt_ifd_performance/browse)| Main repository of the mkt_ifd_performance batch.|
-|[Dependency - ultra_dashboard_UI_performance_test](https://git.rakuten-it.com/projects/ADMKTIFD/repos/mkt_ifd_performance/browse?at=refs%2Fheads%2Ffeature%2FTRAR-3692_prepare_test_data)| The module we are using to generate CV summary records|
-
+|[Main Repository - file_storage_server](https://github.com/ercixiaoshuang/file_storage_server)| Main repository of the file_storage_server.|
 
 
 ### Start the Application 
